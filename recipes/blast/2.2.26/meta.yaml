@@ -8,7 +8,7 @@ source:
     md5: 1749451aedf7b7bab24f57e5f4a865e0 # [linux]
     fn: ncbi-blast-2.2.26+-universal-macosx.tar.gz # [osx]
     url: ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/2.2.26/ncbi-blast-2.2.26+-universal-macosx.tar.gz # [osx]
-    md5: 03cbf1c151691ce22f22c337ba1f00a5 # [osx]
+    md5: c4548075cab4e7215fa9ee9415e9a15b # [osx]
     patches:
         - legacy_blast.pl.patch
         - update_blastdb.pl.patch
