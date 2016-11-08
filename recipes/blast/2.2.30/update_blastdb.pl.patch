@@ -1,0 +1,8 @@
+--- bin/update_blastdb.pl
++++ bin/update_blastdb.pl
+@@ -1,4 +1,4 @@
+-#!/usr/bin/perl
++#!/usr/bin/env perl
+ # $Id: update_blastdb.pl 446090 2014-09-11 12:12:27Z ivanov $
+ # ===========================================================================
+ #
